@@ -3,7 +3,7 @@ const app = express();
 
 // Create a route for the root URL
 app.get('/', (req, res) => {
-  res.send('Hello World!');
+  res.send('Hello Preetham!');
 });
 
 // Start the server
